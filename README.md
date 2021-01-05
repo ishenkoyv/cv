@@ -1,6 +1,6 @@
 # Yurii Ishchenko
 
-## Team Lead / Product Manager / Product Owner
+## PHP Senior Developer
 
 ### Contacts
 
@@ -49,7 +49,7 @@ Juksta GDPR Representative Limited
 
 www.juksta.eu
 
-_Oct 2019 - present_
+_Oct 2019 - Jan 2021_
 
 
 Building a SAAS solution in the sphere of EU GDPR law regulation to help small/middle size internet companies to serve representative requests from data subjects.
